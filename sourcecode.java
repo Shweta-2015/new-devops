@@ -7,8 +7,12 @@ class Main {
 
     // add two numbers
     int sum = first + second;
-    System.out.println(first + " + " + second + " = "  + sum);
+<<<<<<< HEAD
+    System.out.println(hi);
   }
 } test
 test1
 test2
+=======
+    System.out.println(hi);
+>>>>>>> hotfix
